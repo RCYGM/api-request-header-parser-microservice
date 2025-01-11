@@ -1,0 +1,31 @@
+{
+  "name": "api-request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Exam Number Two from FreeCodeCamp: Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCYGM/api-request-header-parser-microservice.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "Request",
+    "Header",
+    "Parser",
+    "Microservice"
+  ],
+  "author": "Jürgen Müller @emprende_legendario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RCYGM/api-request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/RCYGM/api-request-header-parser-microservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
